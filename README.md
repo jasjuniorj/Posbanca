@@ -1,4 +1,4 @@
-# Posbanca
+# Pós-banca
 App para pesquisa de teses e dissertações defendidos nos diversos programas de pós-graduação do Brasil (Banco Capes).
 Em construção esperando base defitiva para ampliação da série histórica. Aceitamos colaboração.
 
